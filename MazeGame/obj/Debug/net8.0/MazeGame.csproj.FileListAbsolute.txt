@@ -1,0 +1,16 @@
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\MazeGame.exe
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\map.txt
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\MazeGame.deps.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\MazeGame.runtimeconfig.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\MazeGame.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\bin\Debug\net8.0\MazeGame.pdb
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfoInputs.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfo.cs
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.sourcelink.json
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\refint\MazeGame.dll
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.pdb
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\MazeGame.genruntimeconfig.cache
+C:\Users\hamoo\Desktop\code\my-code-dir\lab-12-maze-game-with-concurrency-Elmo1112-1\MazeGame\obj\Debug\net8.0\ref\MazeGame.dll
